@@ -16,6 +16,8 @@ pageextension 50010 VendorListExt extends "Vendor List"
                 trigger OnAction()
                 begin
                     Message('Hi');
+                    Message('hello');
+
                 end;
             }
         }
