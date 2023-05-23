@@ -17,6 +17,7 @@ pageextension 50010 VendorListExt extends "Vendor List"
                 begin
                     Message('Hi');
                     Message('hello');
+                    Message('bye');
 
                 end;
             }
